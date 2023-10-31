@@ -1,12 +1,12 @@
-# naveo releases
+# [naveo](https://naveo.github.io/)
 
-## naveo is a free and open source Docker Desktop alternative for macOS
+## A free and open source Docker Desktop alternative for macOS
 
 ### A screenshot of naveo's GUI for managing containers:
 
 ![image description](profile/images/naveo_containers_menu.png)
 
-### naveo's key features:
+#### Key features:
 
 - Easy to install and use.
 - Compatible with Docker, using docker cli.
