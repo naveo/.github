@@ -4,7 +4,7 @@
 
 ### A screenshot of naveo's GUI for managing containers:
 
-![image description](images/naveo_containers_menu.png)
+![image description](profile/images/naveo_containers_menu.png)
 
 ### naveo's key features:
 
